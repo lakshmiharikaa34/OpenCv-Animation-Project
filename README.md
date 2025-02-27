@@ -43,9 +43,3 @@ This GIF humorously portrays a coder’s emotional journey: a boy frustrated wit
   - `cv2.imshow`, `cv2.waitKey`: For displaying frames and running the animation.
 
 ---
-
-### 🚀 **Getting Started**
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
